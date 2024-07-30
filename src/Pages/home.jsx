@@ -6,7 +6,7 @@ import Footer from "../components/Fragments/Footer";
 
 function Home() {
   return (
-    <div>
+    <div className="bg-white font-heebo min-h-screen">
       <Header />
       <Hero />
       <Recent />
